@@ -1,0 +1,2 @@
+Prefix plugins/PyMol/example/
+Plugin PyMol inputfile parameters.txt outputfile none

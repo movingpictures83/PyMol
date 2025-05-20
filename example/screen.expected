@@ -1,0 +1,33 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: PyMol
+Interaction maps shape: (684, 13, 32, 32)
+All energies shape: (684, 13)
+Testing for 1J3R_A_B
+select geometric, (chain B and resi 99,97,154,130,153,98,152) or (chain A and resi 152,99) 
+select RASA, (chain A and resi 99,152,153,69,150,68,101,128,67) or (chain B and resi 98,152,128,97,69,154,130,153,150,101,67,99) 
+select HB, (chain B and resi 11,128,99,9,150,69,18,152,67,101) or (chain A and resi 152,153,60,7,58,68,69,18,67,150) 
+select charge, (chain A and resi 99,155,96,156,98,152,153,66,68,97,154,67) or (chain B and resi 152,65,97,69,154,153,67,99,66) 
+select hydropathy, (chain A and resi 97,153,152,68,96,66,154,98,67) or (chain B and resi 66,154,153,69,65,152,67) 

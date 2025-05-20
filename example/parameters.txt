@@ -1,0 +1,4 @@
+grid	07-grid-native/
+attn_native	native.attn.pkl
+attn_spatial	spatial.pkl
+id	1J3R_A_B
